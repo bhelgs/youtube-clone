@@ -1,3 +1,11 @@
+# large files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+
 # Logs
 logs
 *.log
